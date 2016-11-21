@@ -1,0 +1,5 @@
+C:\Dell\MyExperiments\dotnetcoretests\test2\bin\Debug\netcoreapp1.0\test2.dll
+C:\Dell\MyExperiments\dotnetcoretests\test2\bin\Debug\netcoreapp1.0\test2.pdb
+C:\Dell\MyExperiments\dotnetcoretests\test2\obj\Debug\netcoreapp1.0\test2.AssemblyInfo.cs
+C:\Dell\MyExperiments\dotnetcoretests\test2\obj\Debug\netcoreapp1.0\test2.dll
+C:\Dell\MyExperiments\dotnetcoretests\test2\obj\Debug\netcoreapp1.0\test2.pdb
